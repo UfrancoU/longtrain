@@ -1,0 +1,238 @@
+-----------------------------------------------------------------------------
+-- This is ASPECT, the Advanced Solver for Problems in Earth's ConvecTion.
+--     . version 2.1.0
+--     . using deal.II 9.1.1
+--     .       with 32 bit indices and vectorization level 1 (128 bits)
+--     . using Trilinos 12.10.1
+--     . using p4est 2.2.0
+--     . running in DEBUG mode
+--     . running with 20 MPI processes
+-----------------------------------------------------------------------------
+
+
+   Loading Ascii data boundary file /home/Felipe/MWork/MyIniTopo.txt.
+
+
+   Loading new data file did not succeed.
+   Assuming constant boundary conditions for rest of model run.
+
+-----------------------------------------------------------------------------
+-- For information on how to cite ASPECT, see:
+--   https://aspect.geodynamics.org/citing.html?ver=2.1.0&sha=&src=code
+-----------------------------------------------------------------------------
+Number of active cells: 512 (on 4 levels)
+Number of degrees of freedom: 35,120 (14,739+729+4,913+4,913+4,913+4,913)
+
+*** Timestep 0:  t=0 seconds
+   Solving temperature system... 0 iterations.
+   Solving crust system ... 0 iterations.
+   Solving lm1 system ... 0 iterations.
+   Solving lm2 system ... 0 iterations.
+   Rebuilding Stokes preconditioner...
+   Solving Stokes system... ---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+---------------------------------------------------------
+TimerOutput objects finalize timed values printed to the
+screen by communicating over MPI in their destructors.
+Since an exception is currently uncaught, this
+synchronization (and subsequent output) will be skipped to
+avoid a possible deadlock.
+---------------------------------------------------------
+ERROR: Uncaught exception in MPI_InitFinalize on proc 18. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 19. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 14. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 5. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 4. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 9. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 16. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 3. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 8. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 11. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 15. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 1. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 12. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 13. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 6. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 7. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 0. Skipping MPI_Finalize() to avoid a deadlock.
+
+
+----------------------------------------------------
+ERROR: Uncaught exception in MPI_InitFinalize on proc 2. Skipping MPI_Finalize() to avoid a deadlock.
+ERROR: Uncaught exception in MPI_InitFinalize on proc 10. Skipping MPI_Finalize() to avoid a deadlock.
+Exception 'ExcMessage (std::string("The iterative Stokes solver " "did not converge. It reported the following error:\n\n") + exc.what() + "\n See " + parameters.output_directory+"solver_history.txt" + " for convergence history.")' on rank 0 on processing: 
+
+--------------------------------------------------------
+An error occurred in line <868> of file </home/Felipe/BIGSOFTWARE/candi/aspect-2.1.0/source/simulator/solver.cc> in function
+    std::pair<double, double> aspect::Simulator<dim>::solve_stokes() [with int dim = 3]
+The violated condition was: 
+    false
+Additional information: 
+    The iterative Stokes solver did not converge. It reported the following error:
+
+
+--------------------------------------------------------
+An error occurred in line <363> of file </home/Felipe/BIGSOFTWARE/candi/aspect-2.1.0/source/simulator/solver.cc> in function
+    void aspect::internal::BlockSchurPreconditioner<PreconditionerA, PreconditionerMp>::vmult(aspect::LinearAlgebra::BlockVector&, const BlockVector&) const [with PreconditionerA = dealii::TrilinosWrappers::PreconditionAMG; PreconditionerMp = dealii::TrilinosWrappers::PreconditionBase; aspect::LinearAlgebra::BlockVector = dealii::TrilinosWrappers::MPI::BlockVector]
+The violated condition was: 
+    false
+Additional information: 
+    The iterative (top left) solver in BlockSchurPreconditioner::vmult did not converge to a tolerance of 0.0091127468835204822. It reported the following error:
+
+
+--------------------------------------------------------
+An error occurred in line <497> of file </home/Felipe/BIGSOFTWARE/candi/tmp/unpack/deal.II-v9.1.1/source/lac/trilinos_solver.cc> in function
+    void dealii::TrilinosWrappers::SolverBase::do_solve(const Preconditioner&) [with Preconditioner = dealii::TrilinosWrappers::PreconditionBase]
+The violated condition was: 
+    false
+Additional information: 
+    AztecOO::Iterate error code -2: numerical breakdown
+--------------------------------------------------------
+
+--------------------------------------------------------
+
+ See /home/Felipe/MWork/fff/solver_history.txt for convergence history.
+--------------------------------------------------------
+
+Aborting!
+----------------------------------------------------
+ERROR: Uncaught exception in MPI_InitFinalize on proc 17. Skipping MPI_Finalize() to avoid a deadlock.
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 24063 RUNNING AT mu01
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
